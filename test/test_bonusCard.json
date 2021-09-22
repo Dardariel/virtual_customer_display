@@ -1,0 +1,7 @@
+{
+    "bonusCard": {
+        "cardNumber": "123456789",
+        "cardHolder" : "Михаил Александров",
+        "points" : 1000
+    }
+}

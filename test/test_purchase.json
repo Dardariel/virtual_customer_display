@@ -1,0 +1,8 @@
+{
+    "purchase": {
+        "type": "cash/card/sbp",
+        "totalAmount" : 376.55,
+        "receivedAmount": 500,
+        "changeAmount" : 123.45
+    }
+}

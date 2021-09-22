@@ -1,0 +1,21 @@
+{
+    "receipt": {
+        "amount": 220.0,
+        "positions": [
+            {
+                "number": 1,
+                "name": "ТРК:01 АИ-92",
+                "price": 45.0,
+                "quantity": 2,
+                "amount": 90.0
+            },
+            {
+                "number": 2,
+                "name": "Жидкость незамерзающая",
+                "price": 130.0,
+                "quantity": 1,
+                "amount": 130.0
+            }
+        ]
+    }
+}

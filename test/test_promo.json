@@ -1,0 +1,12 @@
+{
+    "promo": [
+        {
+            "text": "Test promo text 1",
+            "picture_fname": "file1"
+        },
+        {
+            "text": "Test promo text 2",
+            "picture_fname": "file2"
+        }
+    ]
+}
